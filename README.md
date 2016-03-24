@@ -1,5 +1,6 @@
 # NFL_Event_Demand_Estimation
-Script to Schedule live scrapes of secondary-market NFL event ticket prices 
+Script to Schedule live scrapes of secondary-market NFL event ticket prices into local POSTGRESQL json tables
+for (to be later released) analyses. Trivial to import/schedule any other type of live event.
 
 These scripts allow you to programmatically pull secondary-market ticket prices for events covered by stubhub 
 into a local POSTGRESQL database
